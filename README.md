@@ -8,4 +8,4 @@ Analytics project about the colombian armed conflict. Analysis of victims, regio
 
 
 ## Methodology
-![Architecture](Irene_Architecture_3.png)
+![Methodology](tdsp-lifecycle.png)
